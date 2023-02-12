@@ -1,10 +1,10 @@
 # projects
 
-| SQL Projects----------------- |: Notes------------------------:|
+| : SQL Projects----------------- |: Notes------------------------:|
 | [Music Sales]()               |                                |
 | [Liquor Sales]()              |                                |   
 
 
-| R Projects----------------- |: Notes------------------------:|
+|:  R Projects----------------- |: Notes------------------------:|
 | [Music Sales]()               |                                |
 | [Liquor Sales]()              |                                |   
