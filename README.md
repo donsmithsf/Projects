@@ -1,15 +1,8 @@
-# projects
+# Projects
 
-### SQL
+| Projects                                | Language                 | Notes                     |
+| ----------------------------------------| ------------------------ | ------------------------- |
+| [Music Sales]() |                       | SQL                      |                           |
+| [Liquor Sales]()|                       | SQL                      |                           |
 
-|SQL Projects                           | Notes        |
-| --------------------------------------|:------------------------:|
-| [Music Sales]() |                       |
-| [Liquor Sales]()|                       |   
 
-### R
-
-|R Projects                           | Notes        |
-| --------------------------------------|:------------------------:|
-| [Music Sales]() |                       |
-| [Liquor Sales]()|                       |   
